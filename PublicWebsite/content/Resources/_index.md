@@ -27,6 +27,7 @@ weight: 4
 * [Ping equivalent in EOS](https://steemit.com/devs/@eos-asia/eos-smart-contracts-part-1-getting-started-ping-equivalent-in-eos)  
 * [Building a To-do list with EOS](https://steemit.com/eos/@eos-asia/part-2-building-a-to-do-list-with-eos-or-working-with-persistent-data-in-eos)
 * https://github.com/jafri/eos-debug
+* [Learning Blockchain Development with EOS and C++](https://www.youtube.com/channel/UCN66Pz78qCMzGa1eNdBxWfQ?view_as=subscriber)
 
 #### Ricardian Contracts
 
